@@ -23,3 +23,5 @@ Finally, how about a `<blockquote>`?
 ![Person holds up a photograph of a riverside and buildings with the same river as a backdrop](/images/demo-image-2.jpg "Remember, if you want a figure and caption, add a 'title' attribute to image in the body field — Photo by Kharytonova Antonina on Unsplash.")
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+
+![](https://res.cloudinary.com/paulportfolio/image/upload/c_fit,q_auto,f_auto,dpr_auto/v1575916808/Signature/Paul-Applegate-blog-maybe-last.png)
